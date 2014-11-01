@@ -1,7 +1,6 @@
 var gulp = require('gulp'),
  connect = require('gulp-connect'),
- historyApiFallback = require('connect-history-api-fallb
-ack');
+ historyApiFallback = require('connect-history-api-fallback');
 // Servidor web de desarrollo
 gulp.task('server', function() {
  connect.server({
