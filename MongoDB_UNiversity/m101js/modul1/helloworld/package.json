@@ -1,0 +1,21 @@
+{
+ "name": "new-project",
+ "version": "0.0.1",
+ "description": "desarrollo de aplicación web con JavaScript",
+ "bugs": {
+ "url": "https://github.com/andresperezpayeras/new-project/issues",
+ "email": "andresperezpa@gmail.com"
+ },
+ "license": "MIT",
+ "author": {
+ "name": "Andrés Pérez",
+ "email": "andresperezpa@gmail.com",
+ "url": "http://gmail.com"
+ },
+ "repository": {
+ "type": "git",
+ "url": "https://github.com/andresperezpayeras/new-project"
+ },
+ "dependencies": {},
+ "devDependencies": {}
+}
