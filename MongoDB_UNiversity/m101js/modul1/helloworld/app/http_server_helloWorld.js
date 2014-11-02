@@ -1,8 +1,6 @@
-var express=require("express"),
-cons = require ("consolidate"),
-mongodb = require("mongodb");
 
 console.log("hello world start");
+
 
 var http = require("http");
 var server=http.createServer(function(request,response){
